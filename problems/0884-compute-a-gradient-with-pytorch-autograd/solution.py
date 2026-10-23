@@ -1,0 +1,11 @@
+import torch
+
+def grad_of_quadratic(x_value: float) -> float:
+
+    x = torch.tensor(x_value , dtype = float , requires_grad = True )
+    y = x **2 + 3 * x + 2 
+    y.backward()
+
+    return x.grad.item()
+
+    
