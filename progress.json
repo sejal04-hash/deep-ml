@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-02T16:39:13.283Z",
+  "generated_at": "2026-11-03T15:14:19.926Z",
   "items": {
     "problem:881": {
       "kind": "problem",
@@ -234,6 +234,19 @@
       "last_pushed_at": "2026-11-02T16:39:09.459Z",
       "language": "python",
       "lines": 11
+    },
+    "problem:903": {
+      "kind": "problem",
+      "id": "903",
+      "title": "Implement a Custom `autograd.Function`",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/903",
+      "path": "problems/0903-implement-a-custom-autograd-function",
+      "first_solved_at": "2026-11-03T15:14:16.480Z",
+      "last_pushed_at": "2026-11-03T15:14:16.480Z",
+      "language": "python",
+      "lines": 24
     }
   }
 }
