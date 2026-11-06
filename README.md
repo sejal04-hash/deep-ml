@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**19** solved · 19 problems · 0 labs · 0 math
+**20** solved · 20 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -30,6 +30,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 | [Run One Training Step: Forward, Loss, Backward, Optimizer](https://www.deep-ml.com/problems/886) | easy | 2026-10-25 | [solution](problems/0886-run-one-training-step-forward-loss-backward-optimizer) |
 | [Save and Load Model Weights with state_dict](https://www.deep-ml.com/problems/888) | easy | 2026-10-29 | [solution](problems/0888-save-and-load-model-weights-with-state-dict) |
 | [Implement a Custom `autograd.Function`](https://www.deep-ml.com/problems/903) | medium | 2026-11-03 | [solution](problems/0903-implement-a-custom-autograd-function) |
+| [Implement BatchNorm2d from Scratch (training mode)](https://www.deep-ml.com/problems/902) | medium | 2026-11-06 | [solution](problems/0902-implement-batchnorm2d-from-scratch-training-mode) |
 | [Implement Conv2d with `unfold`](https://www.deep-ml.com/problems/900) | medium | 2026-10-30 | [solution](problems/0900-implement-conv2d-with-unfold) |
 
 ---
